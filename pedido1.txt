@@ -1,0 +1,3 @@
+GET / HTTP/1.1
+Cookie: NID=511%3DkB8t1vho1SSpMatt3beB33oh8o9mxoJzXbHegXCQKJ6wYcyquuqlgE13-MfH5rTz-MRpJLaFV6gp_skNRZ2qisb2_2KKZftdqoa4BjggVlHwL6u0IjnHQzxxFKtW2KEI5xRKCmJkaxTjAxGdf5quWB89HpVzAIPHcFK2E1R2Kzc
+Host: google.com.br

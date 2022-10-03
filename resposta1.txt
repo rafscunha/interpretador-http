@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.com.br/
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 28 Sep 2022 18:19:43 GMT
+Expires: Fri, 28 Oct 2022 18:19:43 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Content-Length: 222
+
+<html>
