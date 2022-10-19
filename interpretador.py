@@ -11,7 +11,7 @@ class HttpProtocol:
     cabecalho: dict
 
 def show_header(protocolo):
-    print("----------     INTERPRETADOR PROTOCOLO HTTP    ----------")
+    print("----__------     INTERPRETADOR PROTOCOLO HTTP    ----------")
     print("Tipo do protocolo: {}".format(protocolo.tipo))
     if protocolo.tipo == "Requisição":
         print("Método: {}\nURL: {}\nVersão: {}".format(protocolo.metodo, protocolo.url, protocolo.versao))
